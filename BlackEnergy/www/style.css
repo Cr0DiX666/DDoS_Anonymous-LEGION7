@@ -1,0 +1,60 @@
+TD {
+	font-family: Tahoma;
+        font-size: 8pt;
+}
+
+A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.base {
+	COLOR: #666666; 
+}
+
+INPUT, SELECT, TEXTAREA {
+     	FONT-SIZE: 8pt; 
+	FONT-FAMILY: Tahoma;
+     	COLOR: black;
+}
+
+TD {
+        font-family: Tahoma;
+        font-size: 8pt;
+	COLOR: #666666; 
+}
+
+.MAIN {
+     	BORDER: 1px solid black;
+     	COLOR: #000000;
+     	BACKGROUND: #F1F0E7
+}
+
+.ITEM {
+     	BACKGROUND: #e0e0e0
+}
+
+.LIST {
+     	BACKGROUND: #AAAAAA
+}
+
+.HEADER {
+     	BACKGROUND: #3F4E74;
+        FONT-WEIGHT: bold;
+	COLOR: #A2B2D7
+}
+
+.HEAD {
+     	TEXT-ALIGN: center;
+}
